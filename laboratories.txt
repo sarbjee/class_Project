@@ -1,0 +1,4 @@
+Lab Name_CostComplete Blood Count_90
+Serum Creatinine_80
+C Reactive Protein_95
+Hemoglobin A1C_85
